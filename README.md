@@ -1,5 +1,7 @@
 # Toy-problems
 
+Note: The index.html file is simply for logging the window prompts.
+
 
         #Grade generator
         
